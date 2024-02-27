@@ -1,28 +1,630 @@
+Skipping 4...			math domain error
+table[abs-error][key]:
+0.342
+table[abs-error][k]:
+0.2978
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0002754867076873779
+0.0
+Skipping 7...			math domain error
+table[abs-error][key]:
+0.3743
+table[abs-error][k]:
+0.4511
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00041252851486206054
+0.0
 Skipping 14...			could not convert string to float: 'girl'
+table[abs-error][key]:
+0.495
+table[abs-error][k]:
+0.495
+table[execution-time][key]:
+0.0003048598766326904
+table[execution-time][k]:
+0.0003048598766326904
+1.0
 Skipping 16...			could not convert string to float: 'MUSK-f152'
+table[abs-error][key]:
+0.495
+table[abs-error][k]:
+0.495
+table[execution-time][key]:
+0.0002705073356628418
+table[execution-time][k]:
+0.0002705073356628418
+1.0
 Skipping 21...			could not convert string to float: 'no'
+table[abs-error][key]:
+0.495
+table[abs-error][k]:
+0.495
+table[execution-time][key]:
+0.0002210700511932373
+table[execution-time][k]:
+0.0002210700511932373
+1.0
 Skipping 25...			could not convert string to float: 'medium'
+table[abs-error][key]:
+0.495
+table[abs-error][k]:
+0.495
+table[execution-time][key]:
+0.00019660353660583496
+table[execution-time][k]:
+0.00019660353660583496
+1.0
 Skipping 33...			could not convert string to float: 'Male'
+table[abs-error][key]:
+0.495
+table[abs-error][k]:
+0.495
+table[execution-time][key]:
+0.00024982571601867676
+table[execution-time][k]:
+0.00024982571601867676
+1.0
+Skipping 67...			math domain error
+table[abs-error][key]:
+0.3729
+table[abs-error][k]:
+0.1668
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005684578418731689
+0.0
 Skipping 68...			could not convert string to float: 'v3'
+table[abs-error][key]:
+0.3729
+table[abs-error][k]:
+0.1668
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005684578418731689
+0.0
 Skipping 69...			could not convert string to float: 'v1'
+table[abs-error][key]:
+0.3729
+table[abs-error][k]:
+0.1668
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005684578418731689
+0.0
 Skipping 70...			could not convert string to float: 'v2'
+table[abs-error][key]:
+0.3729
+table[abs-error][k]:
+0.1668
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005684578418731689
+0.0
 Skipping 71...			could not convert string to float: 'v1'
+table[abs-error][key]:
+0.3729
+table[abs-error][k]:
+0.1668
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005684578418731689
+0.0
 Skipping 72...			could not convert string to float: 'v2'
+table[abs-error][key]:
+0.3729
+table[abs-error][k]:
+0.1668
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005684578418731689
+0.0
 Skipping 73...			could not convert string to float: 'v2'
+table[abs-error][key]:
+0.3729
+table[abs-error][k]:
+0.1668
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005684578418731689
+0.0
 Skipping 74...			could not convert string to float: 'v1'
+table[abs-error][key]:
+0.3729
+table[abs-error][k]:
+0.1668
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005684578418731689
+0.0
 Skipping 75...			could not convert string to float: 'yes'
+table[abs-error][key]:
+0.3729
+table[abs-error][k]:
+0.1668
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005684578418731689
+0.0
 Skipping 76...			could not convert string to float: 'self-employed'
+table[abs-error][key]:
+0.3729
+table[abs-error][k]:
+0.1668
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005684578418731689
+0.0
+Skipping 78...			math domain error
+table[abs-error][key]:
+0.09790000000000001
+table[abs-error][k]:
+0.08505000000000001
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0002830338478088379
+0.0
 Skipping 82...			could not convert string to float: 'a'
+table[abs-error][key]:
+0.495
+table[abs-error][k]:
+0.495
+table[execution-time][key]:
+0.0002990293502807617
+table[execution-time][k]:
+0.0002990293502807617
+1.0
+Skipping 83...			math domain error
+table[abs-error][key]:
+0.0761
+table[abs-error][k]:
+0.03165
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.000347059965133667
+0.0
 Skipping 88...			could not convert string to float: 'med'
+table[abs-error][key]:
+0.495
+table[abs-error][k]:
+0.495
+table[execution-time][key]:
+0.0002598762512207031
+table[execution-time][k]:
+0.0002598762512207031
+1.0
+Skipping 91...			math domain error
+table[abs-error][key]:
+0.0453
+table[abs-error][k]:
+0.03265
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00037096500396728517
+0.0
+Skipping 97...			math domain error
+table[abs-error][key]:
+0.505
+table[abs-error][k]:
+0.505
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00048459649085998537
+0.0
 Skipping 98...			could not convert string to float: 'no checking'
+table[abs-error][key]:
+0.505
+table[abs-error][k]:
+0.505
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00048459649085998537
+0.0
+Skipping 101...			math domain error
+table[abs-error][key]:
+0.057999999999999996
+table[abs-error][k]:
+0.10679999999999999
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+1.9971132278442383e-05
+0.0
 Skipping 104...			could not convert string to float: '6m'
+table[abs-error][key]:
+0.495
+table[abs-error][k]:
+0.495
+table[execution-time][key]:
+0.00020508885383605958
+table[execution-time][k]:
+0.00020508885383605958
+1.0
+Skipping 105...			math domain error
+table[abs-error][key]:
+0.0098
+table[abs-error][k]:
+0.01
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00030011057853698733
+0.0
+Skipping 106...			math domain error
+table[abs-error][key]:
+0.0398
+table[abs-error][k]:
+0.0233
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005891811847686767
+0.0
 Skipping 109...			could not convert string to float: 'f'
+table[abs-error][key]:
+0.495
+table[abs-error][k]:
+0.495
+table[execution-time][key]:
+0.00014275908470153808
+table[execution-time][k]:
+0.00014275908470153808
+1.0
+Skipping 110...			math domain error
+table[abs-error][key]:
+0.1696
+table[abs-error][k]:
+0.11359999999999999
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005542409420013428
+0.0
+Skipping 113...			math domain error
+table[abs-error][key]:
+0.2202
+table[abs-error][k]:
+0.1476
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0007874703407287597
+0.0
+Skipping 114...			math domain error
+table[abs-error][key]:
+0.1202
+table[abs-error][k]:
+0.08290000000000002
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0007054555416107178
+0.0
 Skipping 115...			could not convert string to float: 'a'
+table[abs-error][key]:
+0.1202
+table[abs-error][k]:
+0.08290000000000002
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0007054555416107178
+0.0
+Skipping 116...			math domain error
+table[abs-error][key]:
+0.1206
+table[abs-error][k]:
+0.0632
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+8.310675621032715e-05
+0.0
+Skipping 117...			math domain error
+table[abs-error][key]:
+0.24530000000000002
+table[abs-error][k]:
+0.2955
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005775868892669677
+0.0
 Skipping 118...			could not convert string to float: 'USA_Today'
+table[abs-error][key]:
+0.24530000000000002
+table[abs-error][k]:
+0.2955
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005775868892669677
+0.0
 Skipping 119...			could not convert string to float: 'Female'
+table[abs-error][key]:
+0.24530000000000002
+table[abs-error][k]:
+0.2955
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005775868892669677
+0.0
 Skipping 120...			could not convert string to float: 'Sportsticker'
+table[abs-error][key]:
+0.24530000000000002
+table[abs-error][k]:
+0.2955
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005775868892669677
+0.0
+Skipping 122...			math domain error
+table[abs-error][key]:
+0.084
+table[abs-error][k]:
+0.0526
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0006125569343566895
+0.0
+Skipping 123...			math domain error
+table[abs-error][key]:
+0.2425
+table[abs-error][k]:
+0.09255000000000001
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0006255102157592773
+0.0
+Skipping 124...			math domain error
+table[abs-error][key]:
+0.0033
+table[abs-error][k]:
+0.0128
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00027981042861938474
+0.0
+Skipping 126...			math domain error
+table[abs-error][key]:
+0.505
+table[abs-error][k]:
+0.505
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0004149329662322998
+0.0
 Skipping 128...			could not convert string to float: 'Female'
+table[abs-error][key]:
+0.49495
+table[abs-error][k]:
+0.49495
+table[execution-time][key]:
+0.0002777278423309326
+table[execution-time][k]:
+0.0002777278423309326
+1.0
 Skipping 129...			could not convert string to float: 'A'
+table[abs-error][key]:
+0.49495
+table[abs-error][k]:
+0.49495
+table[execution-time][key]:
+0.0002777278423309326
+table[execution-time][k]:
+0.0002777278423309326
+1.0
 Skipping 130...			could not convert string to float: '60-74'
+table[abs-error][key]:
+0.49495
+table[abs-error][k]:
+0.49495
+table[execution-time][key]:
+0.0002777278423309326
+table[execution-time][k]:
+0.0002777278423309326
+1.0
+Skipping 131...			math domain error
+table[abs-error][key]:
+0.086
+table[abs-error][k]:
+0.09265000000000001
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.000264972448348999
+0.0
 Skipping 132...			could not convert string to float: 'o'
+table[abs-error][key]:
+0.086
+table[abs-error][k]:
+0.09265000000000001
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.000264972448348999
+0.0
+Skipping 133...			math domain error
+table[abs-error][key]:
+0.10279999999999999
+table[abs-error][k]:
+0.0669
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00017528891563415528
+0.0
+Skipping 134...			math domain error
+table[abs-error][key]:
+0.0333
+table[abs-error][k]:
+0.0265
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00015624523162841798
+0.0
+Skipping 135...			math domain error
+table[abs-error][key]:
+0.0908
+table[abs-error][k]:
+0.06075
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00023436546325683594
+0.0
+Skipping 136...			math domain error
+table[abs-error][key]:
+0.076
+table[abs-error][k]:
+0.05995
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00046874046325683593
+0.0
+Skipping 137...			math domain error
+table[abs-error][key]:
+0.0
+table[abs-error][k]:
+0.0
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00026689767837524415
+0.0
+Skipping 138...			math domain error
+table[abs-error][key]:
+0.19330000000000003
+table[abs-error][k]:
+0.14975
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00023935914039611818
+0.0
 Skipping 139...			could not convert string to float: 'Portugal'
+table[abs-error][key]:
+0.19330000000000003
+table[abs-error][k]:
+0.14975
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00023935914039611818
+0.0
+Skipping 140...			math domain error
+table[abs-error][key]:
+0.011000000000000001
+table[abs-error][k]:
+0.0105
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0003906095027923584
+0.0
+Skipping 141...			math domain error
+table[abs-error][key]:
+0.09
+table[abs-error][k]:
+0.0508
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00031249403953552245
+0.0
+Skipping 142...			math domain error
+table[abs-error][key]:
+0.011000000000000001
+table[abs-error][k]:
+0.011049999999999999
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0005968320369720459
+0.0
+Skipping 143...			math domain error
+table[abs-error][key]:
+0.0105
+table[abs-error][k]:
+0.011699999999999999
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0007031166553497315
+0.0
+Skipping 145...			math domain error
+table[abs-error][key]:
+0.013600000000000001
+table[abs-error][k]:
+0.012849999999999999
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00042270421981811525
+0.0
+Skipping 149...			math domain error
+table[abs-error][key]:
+0.307
+table[abs-error][k]:
+0.11460000000000001
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0004242241382598877
+0.0
+Skipping 154...			math domain error
+table[abs-error][key]:
+0.10779999999999999
+table[abs-error][k]:
+0.0513
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.00041185855865478516
+0.0
+Skipping 157...			math domain error
+table[abs-error][key]:
+0.0055000000000000005
+table[abs-error][k]:
+0.0076500000000000005
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0001925480365753174
+0.0
+Skipping 160...			math domain error
+table[abs-error][key]:
+0.0038
+table[abs-error][k]:
+0.0086
+table[execution-time][key]:
+0.0
+table[execution-time][k]:
+0.0003659248352050781
+0.0
