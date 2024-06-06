@@ -29,7 +29,9 @@ def PACC(calib_clf, test_data, tprfpr, thr = 0.5):
     calibrated_predictions = calib_clf.predict_proba(test_data)[:,1]
     pos_prop = np.mean(calibrated_predictions)    
     diff_tpr_fpr = (float(TprFpr['tpr']) - float(TprFpr['fpr']))
-    pos_prop = (pos_prop - float(TprFpr['fpr'])) / diff_tpr_fpr
+
+    if diff_tpr_fpr != 0:
+        pos_prop = (pos_prop - float(TprFpr['fpr'])) / diff_tpr_fpr
 
     if pos_prop <= 0:                           #clipping the output between [0,1]
         pos_prop = 0
