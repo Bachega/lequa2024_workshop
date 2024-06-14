@@ -1,0 +1,400 @@
+dataset,regressor,quantifier_recommended,hit
+1043_ada_agnostic,Random Forests,SMM,1
+1048_jEdit_4,Random Forests,SORD,1
+1049_pc4,Random Forests,SORD,1
+1050_pc3,Random Forests,SORD,1
+1054_mc2,Random Forests,SMM,1
+1056_mc1,Random Forests,MAX,1
+1061_ar4,Random Forests,SMM,0
+1065_kc3,Random Forests,MAX,0
+1066_kc1-binary,Random Forests,MS,1
+1068_pc1,Random Forests,SORD,1
+1069_pc2,Random Forests,SMM,0
+1071_mw1,Random Forests,SORD,0
+1073_jEdit_4,Random Forests,DyS,1
+1075_datatrieve,Random Forests,SORD,0
+1115_teachingAssistant,Random Forests,SMM,0
+1121_badges2,Random Forests,MAX,0
+1167_pc1_req,Random Forests,MAX,1
+11_balance-scale,Random Forests,CC,1
+12_mfeat-factors,Random Forests,X,1
+1456_appendicitis,Random Forests,SORD,0
+1460_banana,Random Forests,SORD,0
+1462_banknote-authentication,Random Forests,MAX,1
+1464_blood-transfusion-service-center,Random Forests,SORD,1
+1465_breast-tissue,Random Forests,MS,0
+1466_cardiotocography,Random Forests,ACC,0
+1467_climate-model-simulation-crashes,Random Forests,MAX,0
+1473_fertility,Random Forests,PACC,1
+1475_first-order-theorem-proving,Random Forests,SMM,1
+1479_hill-valley,Random Forests,SMM,1
+1484_lsvt,Random Forests,MAX,0
+1485_madelon,Random Forests,DyS,1
+1487_ozone-level-8hr,Random Forests,SORD,1
+1488_parkinsons,Random Forests,X,0
+1489_phoneme,Random Forests,SORD,1
+1490_planning-relax,Random Forests,DyS,1
+1494_qsar-biodeg,Random Forests,DyS,1
+1495_qualitative-bankruptcy,Random Forests,ACC,1
+1496_ringnorm,Random Forests,SORD,1
+1497_wall-robot-navigation,Random Forests,SORD,1
+1498_sa-heart,Random Forests,MS,1
+14_mfeat-fourier,Random Forests,SORD,0
+1501_semeion,Random Forests,CC,1
+1504_steel-plates-fault,Random Forests,SORD,0
+1506_thoracic-surgery,Random Forests,SMM,1
+1507_twonorm,Random Forests,ACC,1
+1508_user-knowledge,Random Forests,SMM,0
+1510_wdbc,Random Forests,SMM,1
+1511_wholesale-customers,Random Forests,SMM,1
+1512_heart-long-beach,Random Forests,DyS,1
+1519_robot-failures-lp4,Random Forests,SORD,1
+1520_robot-failures-lp5,Random Forests,MS,1
+1523_vertebra-column,Random Forests,DyS,1
+1526_wall-robot-navigation,Random Forests,SORD,1
+1527_volcanoes-a1,Random Forests,SORD,1
+1528_volcanoes-a2,Random Forests,SORD,1
+1529_volcanoes-a3,Random Forests,SORD,1
+1530_volcanoes-a4,Random Forests,SORD,1
+1535_volcanoes-b5,Random Forests,SORD,0
+1538_volcanoes-d1,Random Forests,SORD,1
+1539_volcanoes-d2,Random Forests,SORD,1
+1540_volcanoes-d3,Random Forests,SORD,1
+1541_volcanoes-d4,Random Forests,SORD,1
+1547_autoUniv-au1-1000,Random Forests,SORD,1
+1559_breast-tissue,Random Forests,SORD,1
+1565_heart-h,Random Forests,SORD,1
+1566_hill-valley,Random Forests,SORD,1
+1570_wilt,Random Forests,SORD,1
+1600_SPECTF,Random Forests,SMM,1
+16_mfeat-karhunen,Random Forests,SMM,1
+182_satimage,Random Forests,X,0
+187_wine,Random Forests,MS,1
+18_mfeat-morphological,Random Forests,MAX,1
+20_mfeat-pixel,Random Forests,MAX,1
+22_mfeat-zernike,Random Forests,SORD,1
+23_cmc,Random Forests,SORD,1
+28_optdigits,Random Forests,SMM,1
+292_Australian,Random Forests,DyS,1
+294_satellite_image,Random Forests,MS,1
+30_page-blocks,Random Forests,MAX,1
+311_oil_spill,Random Forests,MS,0
+312_scene,Random Forests,MAX,1
+316_yeast_ml8,Random Forests,MAX,0
+329_hayes-roth,Random Forests,SMM,0
+333_monks-problems-1,Random Forests,SORD,1
+334_monks-problems-2,Random Forests,SMM,0
+335_monks-problems-3,Random Forests,CC,1
+336_SPECT,Random Forests,SMM,1
+36_segment,Random Forests,MAX,0
+375_JapaneseVowels,Random Forests,DyS,1
+377_synthetic_control,Random Forests,MAX,0
+37_diabetes,Random Forests,SORD,1
+40474_thyroid-allbp,Random Forests,SORD,1
+40475_thyroid-allhyper,Random Forests,DyS,1
+40496_LED-display-domain-7digit,Random Forests,MS,1
+40733_yeast,Random Forests,SORD,1
+40877_seeds,Random Forests,SORD,0
+40_sonar,Random Forests,DyS,1
+43_haberman,Random Forests,SORD,1
+44_spambase,Random Forests,SORD,1
+450_analcatdata_lawsuit,Random Forests,MAX,0
+4538_GesturePhaseSegmentationProcessed,Random Forests,SORD,1
+458_analcatdata_authorship,Random Forests,SORD,1
+461_analcatdata_creditscore,Random Forests,SMM,0
+463_backache,Random Forests,MAX,1
+464_prnn_synth,Random Forests,SORD,1
+48_tae,Random Forests,DyS,1
+53_heart-statlog,Random Forests,DyS,0
+54_vehicle,Random Forests,SMM,0
+59_ionosphere,Random Forests,MS,1
+60_waveform-5000,Random Forests,MS,1
+61_iris,Random Forests,SORD,1
+679_rmftsa_sleepdata,Random Forests,SORD,1
+694_diggle_table_a2,Random Forests,SMM,0
+AedesQuinx,Random Forests,SMM,1
+AedesSex,Random Forests,MS,1
+anuranCalls,Random Forests,SORD,1
+ArabicDigit,Random Forests,SMM,1
+BNG,Random Forests,MS,1
+click-prediction,Random Forests,SORD,1
+cmc,Random Forests,SORD,1
+covtype_reduced,Random Forests,DyS,1
+default_credit_card_clients,Random Forests,SORD,1
+eeg,Random Forests,SORD,1
+HTRU,Random Forests,SMM,1
+jm1-processed,Random Forests,SORD,1
+letter-recognition,Random Forests,SORD,1
+magic,Random Forests,DyS,1
+mozilla,Random Forests,DyS,1
+namao,Random Forests,SORD,1
+occupancy,Random Forests,MS,1
+phoneme,Random Forests,DyS,1
+spambase,Random Forests,SORD,1
+winetype,Random Forests,MS,1
+1043_ada_agnostic,XGBOOST,SMM,1
+1048_jEdit_4,XGBOOST,SMM,1
+1049_pc4,XGBOOST,SORD,1
+1050_pc3,XGBOOST,X,0
+1054_mc2,XGBOOST,MAX,0
+1056_mc1,XGBOOST,X,1
+1061_ar4,XGBOOST,SORD,0
+1065_kc3,XGBOOST,MAX,0
+1066_kc1-binary,XGBOOST,DyS,1
+1068_pc1,XGBOOST,SORD,1
+1069_pc2,XGBOOST,SMM,0
+1071_mw1,XGBOOST,SMM,0
+1073_jEdit_4,XGBOOST,DyS,1
+1075_datatrieve,XGBOOST,SMM,0
+1115_teachingAssistant,XGBOOST,MAX,1
+1121_badges2,XGBOOST,MS2,0
+1167_pc1_req,XGBOOST,DyS,1
+11_balance-scale,XGBOOST,X,1
+12_mfeat-factors,XGBOOST,MS,1
+1456_appendicitis,XGBOOST,SORD,0
+1460_banana,XGBOOST,SORD,0
+1462_banknote-authentication,XGBOOST,DyS,1
+1464_blood-transfusion-service-center,XGBOOST,SMM,1
+1465_breast-tissue,XGBOOST,MAX,0
+1466_cardiotocography,XGBOOST,X,0
+1467_climate-model-simulation-crashes,XGBOOST,SMM,1
+1473_fertility,XGBOOST,SMM,1
+1475_first-order-theorem-proving,XGBOOST,SMM,1
+1479_hill-valley,XGBOOST,SORD,1
+1484_lsvt,XGBOOST,X,0
+1485_madelon,XGBOOST,SORD,1
+1487_ozone-level-8hr,XGBOOST,SMM,1
+1488_parkinsons,XGBOOST,X,0
+1489_phoneme,XGBOOST,DyS,1
+1490_planning-relax,XGBOOST,SMM,1
+1494_qsar-biodeg,XGBOOST,DyS,1
+1495_qualitative-bankruptcy,XGBOOST,DyS,1
+1496_ringnorm,XGBOOST,SMM,1
+1497_wall-robot-navigation,XGBOOST,SORD,1
+1498_sa-heart,XGBOOST,DyS,1
+14_mfeat-fourier,XGBOOST,MS,0
+1501_semeion,XGBOOST,DyS,1
+1504_steel-plates-fault,XGBOOST,SORD,0
+1506_thoracic-surgery,XGBOOST,SMM,1
+1507_twonorm,XGBOOST,X,1
+1508_user-knowledge,XGBOOST,SMM,0
+1510_wdbc,XGBOOST,ACC,1
+1511_wholesale-customers,XGBOOST,MS,1
+1512_heart-long-beach,XGBOOST,DyS,1
+1519_robot-failures-lp4,XGBOOST,DyS,1
+1520_robot-failures-lp5,XGBOOST,MS,1
+1523_vertebra-column,XGBOOST,DyS,1
+1526_wall-robot-navigation,XGBOOST,HDy,1
+1527_volcanoes-a1,XGBOOST,DyS,1
+1528_volcanoes-a2,XGBOOST,DyS,0
+1529_volcanoes-a3,XGBOOST,MS,1
+1530_volcanoes-a4,XGBOOST,SORD,1
+1535_volcanoes-b5,XGBOOST,X,1
+1538_volcanoes-d1,XGBOOST,SORD,1
+1539_volcanoes-d2,XGBOOST,SORD,1
+1540_volcanoes-d3,XGBOOST,SORD,1
+1541_volcanoes-d4,XGBOOST,SORD,1
+1547_autoUniv-au1-1000,XGBOOST,SORD,1
+1559_breast-tissue,XGBOOST,SORD,1
+1565_heart-h,XGBOOST,SORD,1
+1566_hill-valley,XGBOOST,SORD,1
+1570_wilt,XGBOOST,SORD,1
+1600_SPECTF,XGBOOST,SORD,1
+16_mfeat-karhunen,XGBOOST,DyS,0
+182_satimage,XGBOOST,DyS,1
+187_wine,XGBOOST,CC,0
+18_mfeat-morphological,XGBOOST,MAX,1
+20_mfeat-pixel,XGBOOST,CC,1
+22_mfeat-zernike,XGBOOST,MS2,1
+23_cmc,XGBOOST,HDy,0
+28_optdigits,XGBOOST,DyS,1
+292_Australian,XGBOOST,DyS,1
+294_satellite_image,XGBOOST,MS,1
+30_page-blocks,XGBOOST,SORD,0
+311_oil_spill,XGBOOST,DyS,1
+312_scene,XGBOOST,DyS,1
+316_yeast_ml8,XGBOOST,X,0
+329_hayes-roth,XGBOOST,SORD,0
+333_monks-problems-1,XGBOOST,SORD,1
+334_monks-problems-2,XGBOOST,SORD,1
+335_monks-problems-3,XGBOOST,CC,1
+336_SPECT,XGBOOST,SMM,1
+36_segment,XGBOOST,X,0
+375_JapaneseVowels,XGBOOST,DyS,1
+377_synthetic_control,XGBOOST,MS,0
+37_diabetes,XGBOOST,SORD,1
+40474_thyroid-allbp,XGBOOST,HDy,1
+40475_thyroid-allhyper,XGBOOST,DyS,1
+40496_LED-display-domain-7digit,XGBOOST,MS,1
+40733_yeast,XGBOOST,SORD,1
+40877_seeds,XGBOOST,HDy,0
+40_sonar,XGBOOST,MAX,1
+43_haberman,XGBOOST,SORD,1
+44_spambase,XGBOOST,DyS,1
+450_analcatdata_lawsuit,XGBOOST,DyS,0
+4538_GesturePhaseSegmentationProcessed,XGBOOST,SORD,1
+458_analcatdata_authorship,XGBOOST,ACC,1
+461_analcatdata_creditscore,XGBOOST,SORD,1
+463_backache,XGBOOST,ACC,1
+464_prnn_synth,XGBOOST,DyS,1
+48_tae,XGBOOST,DyS,1
+53_heart-statlog,XGBOOST,DyS,0
+54_vehicle,XGBOOST,ACC,1
+59_ionosphere,XGBOOST,SMM,1
+60_waveform-5000,XGBOOST,MS,1
+61_iris,XGBOOST,CC,1
+679_rmftsa_sleepdata,XGBOOST,SORD,1
+694_diggle_table_a2,XGBOOST,SMM,0
+AedesQuinx,XGBOOST,SMM,1
+AedesSex,XGBOOST,ACC,1
+anuranCalls,XGBOOST,DyS,1
+ArabicDigit,XGBOOST,ACC,0
+BNG,XGBOOST,CC,1
+click-prediction,XGBOOST,MAX,1
+cmc,XGBOOST,MS,1
+covtype_reduced,XGBOOST,DyS,1
+default_credit_card_clients,XGBOOST,MAX,1
+eeg,XGBOOST,SORD,1
+HTRU,XGBOOST,X,1
+jm1-processed,XGBOOST,ACC,0
+letter-recognition,XGBOOST,SORD,1
+magic,XGBOOST,SMM,1
+mozilla,XGBOOST,MS,1
+namao,XGBOOST,SMM,1
+occupancy,XGBOOST,SORD,1
+phoneme,XGBOOST,DyS,1
+spambase,XGBOOST,DyS,1
+winetype,XGBOOST,MAX,1
+1043_ada_agnostic,SVM,X,1
+1048_jEdit_4,SVM,SORD,1
+1049_pc4,SVM,SMM,1
+1050_pc3,SVM,MAX,0
+1054_mc2,SVM,SORD,1
+1056_mc1,SVM,X,1
+1061_ar4,SVM,MAX,0
+1065_kc3,SVM,MAX,0
+1066_kc1-binary,SVM,SORD,1
+1068_pc1,SVM,MAX,0
+1069_pc2,SVM,SORD,0
+1071_mw1,SVM,MAX,1
+1073_jEdit_4,SVM,MAX,1
+1075_datatrieve,SVM,MAX,1
+1115_teachingAssistant,SVM,PCC,0
+1121_badges2,SVM,ACC,0
+1167_pc1_req,SVM,PCC,1
+11_balance-scale,SVM,SORD,1
+12_mfeat-factors,SVM,DyS,1
+1456_appendicitis,SVM,MAX,1
+1460_banana,SVM,SORD,0
+1462_banknote-authentication,SVM,HDy,1
+1464_blood-transfusion-service-center,SVM,SMM,1
+1465_breast-tissue,SVM,DyS,1
+1466_cardiotocography,SVM,MS,0
+1467_climate-model-simulation-crashes,SVM,DyS,1
+1473_fertility,SVM,PCC,1
+1475_first-order-theorem-proving,SVM,SORD,1
+1479_hill-valley,SVM,SORD,1
+1484_lsvt,SVM,SORD,0
+1485_madelon,SVM,SORD,1
+1487_ozone-level-8hr,SVM,SMM,1
+1488_parkinsons,SVM,MAX,0
+1489_phoneme,SVM,SORD,1
+1490_planning-relax,SVM,SORD,1
+1494_qsar-biodeg,SVM,MS,0
+1495_qualitative-bankruptcy,SVM,ACC,1
+1496_ringnorm,SVM,HDy,1
+1497_wall-robot-navigation,SVM,SORD,1
+1498_sa-heart,SVM,DyS,1
+14_mfeat-fourier,SVM,DyS,0
+1501_semeion,SVM,X,1
+1504_steel-plates-fault,SVM,MAX,0
+1506_thoracic-surgery,SVM,PCC,1
+1507_twonorm,SVM,HDy,1
+1508_user-knowledge,SVM,DyS,1
+1510_wdbc,SVM,MS,1
+1511_wholesale-customers,SVM,MS,1
+1512_heart-long-beach,SVM,SMM,1
+1519_robot-failures-lp4,SVM,MAX,1
+1520_robot-failures-lp5,SVM,MAX,1
+1523_vertebra-column,SVM,MS,1
+1526_wall-robot-navigation,SVM,SORD,1
+1527_volcanoes-a1,SVM,DyS,1
+1528_volcanoes-a2,SVM,DyS,0
+1529_volcanoes-a3,SVM,DyS,0
+1530_volcanoes-a4,SVM,DyS,1
+1535_volcanoes-b5,SVM,SORD,0
+1538_volcanoes-d1,SVM,SORD,1
+1539_volcanoes-d2,SVM,SORD,1
+1540_volcanoes-d3,SVM,SORD,1
+1541_volcanoes-d4,SVM,SORD,1
+1547_autoUniv-au1-1000,SVM,SMM,1
+1559_breast-tissue,SVM,SMM,1
+1565_heart-h,SVM,X,0
+1566_hill-valley,SVM,SORD,1
+1570_wilt,SVM,SMM,1
+1600_SPECTF,SVM,SMM,1
+16_mfeat-karhunen,SVM,DyS,0
+182_satimage,SVM,DyS,1
+187_wine,SVM,MS,1
+18_mfeat-morphological,SVM,MAX,1
+20_mfeat-pixel,SVM,DyS,1
+22_mfeat-zernike,SVM,DyS,1
+23_cmc,SVM,DyS,1
+28_optdigits,SVM,X,1
+292_Australian,SVM,MS,0
+294_satellite_image,SVM,DyS,1
+30_page-blocks,SVM,MAX,1
+311_oil_spill,SVM,SMM,0
+312_scene,SVM,DyS,1
+316_yeast_ml8,SVM,PACC,0
+329_hayes-roth,SVM,SORD,0
+333_monks-problems-1,SVM,HDy,1
+334_monks-problems-2,SVM,PCC,0
+335_monks-problems-3,SVM,ACC,1
+336_SPECT,SVM,PACC,0
+36_segment,SVM,MAX,0
+375_JapaneseVowels,SVM,DyS,1
+377_synthetic_control,SVM,MAX,0
+37_diabetes,SVM,SORD,1
+40474_thyroid-allbp,SVM,DyS,1
+40475_thyroid-allhyper,SVM,DyS,1
+40496_LED-display-domain-7digit,SVM,MAX,1
+40733_yeast,SVM,SORD,1
+40877_seeds,SVM,SORD,0
+40_sonar,SVM,SORD,1
+43_haberman,SVM,SORD,1
+44_spambase,SVM,HDy,1
+450_analcatdata_lawsuit,SVM,DyS,0
+4538_GesturePhaseSegmentationProcessed,SVM,SMM,1
+458_analcatdata_authorship,SVM,ACC,1
+461_analcatdata_creditscore,SVM,X,0
+463_backache,SVM,SORD,1
+464_prnn_synth,SVM,SORD,1
+48_tae,SVM,PCC,1
+53_heart-statlog,SVM,HDy,0
+54_vehicle,SVM,MS,0
+59_ionosphere,SVM,ACC,0
+60_waveform-5000,SVM,MS,1
+61_iris,SVM,SORD,1
+679_rmftsa_sleepdata,SVM,SORD,1
+694_diggle_table_a2,SVM,SORD,1
+AedesQuinx,SVM,SORD,1
+AedesSex,SVM,HDy,1
+anuranCalls,SVM,SORD,1
+ArabicDigit,SVM,MS,1
+BNG,SVM,HDy,1
+click-prediction,SVM,SORD,1
+cmc,SVM,DyS,1
+covtype_reduced,SVM,HDy,1
+default_credit_card_clients,SVM,SORD,1
+eeg,SVM,SORD,1
+HTRU,SVM,MS,1
+jm1-processed,SVM,SORD,1
+letter-recognition,SVM,SORD,1
+magic,SVM,SORD,1
+mozilla,SVM,HDy,1
+namao,SVM,X,1
+occupancy,SVM,HDy,0
+phoneme,SVM,SORD,1
+spambase,SVM,HDy,1
+winetype,SVM,DyS,1
