@@ -98,7 +98,7 @@ MAE,Dataset
 0.04885,40_sonar
 0.1534,43_haberman
 0.0201,44_spambase
-0.0948499999999999,450_analcatdata_lawsuit
+0.1566,450_analcatdata_lawsuit
 0.0951999999999999,4538_GesturePhaseSegmentationProcessed
 0.00275,458_analcatdata_authorship
 0.02155,461_analcatdata_creditscore
