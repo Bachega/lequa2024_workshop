@@ -15,19 +15,21 @@ def generate_train_test_data(source_path):
     scaler = MinMaxScaler()
 
     for f in files:
-        data = pd.read_csv(source_path + f)
+        data = pd.read_csv(source_path + f, low_memory=False)
         data = data.dropna()
+        try:
+            columns = data.columns
+            y = data.pop(data.columns[-1])
+            X = data
+            X = scaler.fit_transform(X)
+            X = np.c_[ X, y ]
+            data = pd.DataFrame(data=X, columns=columns)
 
-        columns = data.columns
-        y = data.pop(data.columns[-1])
-        X = data
-        X = scaler.fit_transform(X)
-        X = np.c_[ X, y ]
-        data = pd.DataFrame(data=X, columns=columns)
-
-        train, test = train_test_split(data, test_size=0.3, random_state=42)
-        train.to_csv('./train_data/' + str(f.split('.csv')[0]) + '-TRAIN.csv', index=False)
-        test.to_csv('./test_data/' + str(f.split('.csv')[0]) + '-TEST.csv', index=False)
+            train, test = train_test_split(data, test_size=0.3, random_state=42)
+            train.to_csv('./train_data/new_train_data/' + str(f.split('.csv')[0]) + '-TRAIN.csv', index=False)
+            test.to_csv('./test_data/new_test_data/' + str(f.split('.csv')[0]) + '-TEST.csv', index=False)
+        except:
+            print('Skipping ' + f)
 
 # Hyperparameters of LogisticRegression (LR) are tuned using the train set
 # LR is used as a scorer for the quantifiers
@@ -56,13 +58,13 @@ def run():
     y = None
     X_list = []
     y_list = []
-    files = os.listdir('./train_data/')
+    files = os.listdir('./train_data/new_train_data/')
 
     for f in files:
         if not f.endswith('.csv'):
             continue
 
-        df = pd.read_csv('./train_data/' + f)
+        df = pd.read_csv('./train_data/new_train_data/' + f, low_memory=False)
         df = df.dropna()
 
         y = df.pop(df.columns[-1])
@@ -77,7 +79,7 @@ def run():
     file = open('log.txt', 'w')
     file.close()
     for i in range(0, len(X_list)):
-        if os.path.isfile('./estimator_parameters/' + str(files[i].split('-TRAIN.csv')[0]) + '.joblib'):
+        if os.path.isfile('./estimator_parameters/new_estimator_parameters/' + str(files[i].split('-TRAIN.csv')[0]) + '.joblib'):
             file = open('log.txt', 'a')
             file.write('Skipping ' + str(files[i]) + '\t\t : Already exists\n')
             file.close()
@@ -87,13 +89,13 @@ def run():
         try:
             clf = grid_search(X_list[i], y_list[i])
             print(clf.get_params())
-            joblib.dump(clf, './estimator_parameters/' + str(files[i].split('-TRAIN.csv')[0]) + '.joblib', compress = 0)
+            joblib.dump(clf, './estimator_parameters/new_estimator_parameters/' + str(files[i].split('-TRAIN.csv')[0]) + '.joblib', compress = 0)
         except Exception as e:
             file = open('log.txt', 'a')
             file.write('Skipping ' + str(i) + ' : ' + str(files[i]) + '...\t\t\t' + str(e) + '\n')
             file.close()
 
 if __name__ == '__main__':
-    # # # # # generate_train_test_data('./datasets/')
+    # # # generate_train_test_data('./datasets/new_dts/csv/')
     # run()
     print('\n')
